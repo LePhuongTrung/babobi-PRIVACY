@@ -69,7 +69,7 @@ the Enable Banking application you registered.
 ## Google Gemini
 
 Optional, and iPhone only. No request is made until you save a key under
-**Settings → Tickets de caisse**.
+**Settings → Receipts**.
 
 **What.** The abbreviated item names printed on a receipt, and the merchant's
 name. Not the photo, not the amounts, not the dates, and not the rest of the
@@ -90,11 +90,11 @@ We do not receive the text. Google is the AI provider for this feature.
 
 **How long, and how to stop.** Google keeps what those terms say. We do not
 set that period, and we have no copy on a server of ours. The reading stays in
-the local database until you delete the app. **Settings → Tickets de caisse →
-Retirer** deletes the key from the phone and stops further requests. It does
-not erase readings already stored on the phone, and it does not erase what
-Google already received. Delete or rotate the key in Google AI Studio as well
-if you want Google to stop accepting it.
+the local database until you delete the app. **Settings → Receipts →
+Retirer** deletes the key from the phone and stops further requests. The
+button is labeled Retirer. It does not erase readings already stored on the
+phone, and it does not erase what Google already received. Delete or rotate
+the key in Google AI Studio as well if you want Google to stop accepting it.
 
 ## Yahoo Finance
 
@@ -136,7 +136,7 @@ request looks like a browser asking for that address: the address itself, the
 phone's network address, and a browser user agent. Cookies are neither stored
 nor sent.
 
-**How.** While **Settings → Catégories et marchands → Logos des marchands** is
+**How.** While **Settings → Categories and merchants → Merchant logos** is
 on, and a merchant has a known site or a site you typed. The image is
 requested the first time it is needed.
 
@@ -148,7 +148,7 @@ and not us.
 **How long, and how to stop.** The image sits in the app's cache until iOS
 clears caches or you delete the app. A site that had no usable icon is not
 asked again for seven days. The site's logs are its own; we cannot delete
-them. Turn **Logos des marchands** off to stop new requests.
+them. Turn **Merchant logos** off to stop new requests.
 
 ## Your own server
 
@@ -169,6 +169,9 @@ BabiBo is not directed at children.
 
 Any change to this policy is committed to
 <https://github.com/LePhuongTrung/babobi-PRIVACY>, where its history is public.
+
+This page is English. The same policy in the app's other languages is in this
+repository, one folder per language: vi, fr, nl, it, es, ca, de, pt, and tr.
 
 ## Contact
 
