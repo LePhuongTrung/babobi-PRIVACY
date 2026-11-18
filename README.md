@@ -1,10 +1,13 @@
-# BabiBo privacy policy
+# BabiBo
 
-Public privacy policy for BabiBo, developed by Le Phuong Trung.
+Public pages for BabiBo, developed by Le Phuong Trung.
 
 The iPhone app is for iPhone only. It is not an iPad app.
 
-English is [PRIVACY.md](PRIVACY.md). The same policy in the app's other languages:
+- [About the app](MARKETING.md)
+- [Privacy policy](PRIVACY.md)
+
+The same privacy policy in the app's other languages:
 
 - [Tiếng Việt](vi/PRIVACY.md)
 - [Français](fr/PRIVACY.md)
