@@ -2,7 +2,7 @@
 
 BabiBo è sviluppato da Le Phuong Trung.
 
-_Ultimo aggiornamento: 17 novembre 2026_
+_Ultimo aggiornamento: 18 novembre 2026_
 
 BabiBo è un'app di finanza personale per iPhone. Non è un'app per iPad. Chi la
 pubblica non gestisce un servizio che riceve il tuo libro mastro. Non c'è un
@@ -195,4 +195,4 @@ Non c'è un account BabiBo da eliminare, perché non ne conserviamo uno.
 Eliminare l'app elimina il file locale. Per i dati che un destinatario ha già,
 usa il percorso indicato nella sezione di quel destinatario.
 
-Domande: <bububaba.support@lephuongtrung.id.vn>
+Domande: <babibo.support@lephuongtrung.id.vn>

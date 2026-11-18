@@ -2,7 +2,7 @@
 
 BabiBo is developed by Le Phuong Trung.
 
-_Last updated: 17 November 2026_
+_Last updated: 18 November 2026_
 
 BabiBo is a personal finance app for iPhone. It is not an iPad app. The people
 who publish it do not run a service that receives your ledger. There is no
@@ -179,4 +179,4 @@ There is no BabiBo account to delete, because we do not hold one. Deleting the
 app deletes the local file. For data a recipient already has, use the path in
 that recipient's section above.
 
-Questions: <bububaba.support@lephuongtrung.id.vn>
+Questions: <babibo.support@lephuongtrung.id.vn>

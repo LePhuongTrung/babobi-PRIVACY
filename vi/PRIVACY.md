@@ -2,7 +2,7 @@
 
 BabiBo do Le Phuong Trung phát triển.
 
-_Cập nhật lần cuối: 17 tháng 11 năm 2026_
+_Cập nhật lần cuối: 18 tháng 11 năm 2026_
 
 BabiBo là app tài chính cá nhân cho iPhone. Đây không phải app cho iPad. Người
 phát hành app không vận hành dịch vụ nào nhận sổ của bạn. Không có tài khoản
@@ -179,4 +179,4 @@ Không có tài khoản BabiBo để xóa, vì chúng tôi không giữ tài kho
 xóa file trên máy. Với dữ liệu một bên nhận đã có, dùng cách trong mục của bên
 nhận ở trên.
 
-Câu hỏi: <bububaba.support@lephuongtrung.id.vn>
+Câu hỏi: <babibo.support@lephuongtrung.id.vn>

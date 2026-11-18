@@ -2,7 +2,7 @@
 
 BabiBo, Le Phuong Trung tarafından geliştirilir.
 
-_Son güncelleme: 17 Kasım 2026_
+_Son güncelleme: 18 Kasım 2026_
 
 BabiBo, iPhone için kişisel finans uygulamasıdır. iPad uygulaması değildir.
 Yayımlayan kişiler, defterinizi alan bir hizmet işletmez. BabiBo hesabı yoktur,
@@ -177,4 +177,4 @@ Silecek bir BabiBo hesabı yoktur, çünkü biz hesap tutmayız. Uygulamayı sil
 yerel dosyayı siler. Bir alıcının elinde olan veri için, yukarıda o alıcının
 bölümündeki yolu kullanın.
 
-Sorular: <bububaba.support@lephuongtrung.id.vn>
+Sorular: <babibo.support@lephuongtrung.id.vn>
